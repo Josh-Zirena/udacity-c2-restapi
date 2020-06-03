@@ -1,4 +1,4 @@
-# Udagram REST API
+# Instagram Clone
 
 I am currently enrolled in the Cloud Computing Nanodegree from Udacity and this project is part of the required project.
 
